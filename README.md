@@ -3,7 +3,8 @@
 In this Power BI project, I explored the Global Plastic Waste 2023 Dataset and used some innovative visualization techniques to uncover the impact of plastic waste and recycling rates worldwide.
 
 ## Dashboard Image
-![11](https://github.com/user-attachments/assets/7f07c168-084d-4321-8f7d-ffb6e5d2016d)
+![Capture](https://github.com/user-attachments/assets/81e271d5-1aff-43a2-aca1-8ef991c70cf6)
+
 
 ## Full Dashboard Image on PowerBi
 ![1](https://github.com/user-attachments/assets/dec09d90-8374-4ee9-b1d2-2b62ea5a77f6)
