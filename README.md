@@ -18,7 +18,7 @@ In this Power BI project, I explored the Global Plastic Waste 2023 Dataset and u
 4) Understanding the data surrounding plastic waste is paramount in combating environmental challenges. By leveraging data-driven approaches, we can craft more efficient strategies for reducing and recycling plastic waste. 
 
 
-## Now see country wise Global Waste Repor in PowerBi
+## Now see country wise Global Waste Report in PowerBi
 ### India
 ![India](https://github.com/user-attachments/assets/b938390c-7684-4b1d-8989-c92139d4e8e4)
 #
