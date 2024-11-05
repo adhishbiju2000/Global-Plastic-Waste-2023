@@ -19,7 +19,6 @@ In this Power BI project, I explored the Global Plastic Waste 2023 Dataset and u
 
 
 ## Now see country wise Global Waste Repor in PowerBi
-#
 ### India
 ![India](https://github.com/user-attachments/assets/b938390c-7684-4b1d-8989-c92139d4e8e4)
 #
