@@ -9,7 +9,7 @@ In this Power BI project, I explored the Global Plastic Waste 2023 Dataset and u
 ## Full Dashboard Image on PowerBi
 ![1](https://github.com/user-attachments/assets/dec09d90-8374-4ee9-b1d2-2b62ea5a77f6)
 
-### Data Collected form Kaggle : https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis
+### Data Collected from Kaggle : https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis
 
 ### Key Insights:
 1) Visualized trends in plastic waste generation and recycling rates. 
