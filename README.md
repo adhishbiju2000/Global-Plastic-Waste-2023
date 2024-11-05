@@ -43,3 +43,5 @@ In this Power BI project, I explored the Global Plastic Waste 2023 Dataset and u
 - Sustainability Insights: Gained awareness of global plastic waste trends, identifying areas for sustainable action.
 - Effective Reporting: Developed a well-structured, visually engaging dashboard that communicates data-driven insights effectively.
 
+#
+## -----Thank you-----
